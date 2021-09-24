@@ -3,9 +3,8 @@
 Hi I made this projects during the period 7 Days(In May 2021) different Free Bootcamp, conducted by #SHAPEAI
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI//blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
-<br>I got to have hands on experience on:
+![image](https://user-images.githubusercontent.com/84913669/134709035-ced7e99c-ed02-4194-8f89-c29c691ed6d6.png)
+I got to have hands on experience on:
 <li>Python
 <li>Machine Learning, Data Visulaization, Cyber Security
 <li>Tensorflow
