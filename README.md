@@ -1,6 +1,6 @@
 # ShapeAI_Bootchamp
 
-Hi I made this projects during the period 7 Days(In May 2021) different Free Bootcamp, conducted by #SHAPEAI
+Hi I made this projects during the period 7 days per week(In May 2021) different Free Bootcamp, conducted by #SHAPEAI
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 
